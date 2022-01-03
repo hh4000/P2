@@ -1,4 +1,4 @@
-#P2 project
+# P2 project
 
 This is the Git repository for the P2 project
 
